@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/bRckitQYRg6ibqmmXTa8UNYm6/v+NSCN9rrOWiNDjv47BiHvlRkujT0PEKhoiS/1FeOjBBFNM3qupylqe9pkg==",
+  "dgSpecHash": "6zdc9wBX0PpSowfwbBta8ZwwQrjIenSL3/Mis1CgzXhGOGmIJfp88l78QkFcp6Q8aKs6brwEjQ5K8gzzS9c0hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafa\\source\\repos\\PadraoCommand\\PadraoCommand.csproj",
+  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\Estudos\\C#\\Padrao de projetos-Command\\PadraoCommand\\PadraoCommand.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

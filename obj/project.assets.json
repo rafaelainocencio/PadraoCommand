@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafa\\source\\repos\\PadraoCommand\\PadraoCommand.csproj",
+      "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\Estudos\\C#\\Padrao de projetos-Command\\PadraoCommand\\PadraoCommand.csproj",
       "projectName": "PadraoCommand",
-      "projectPath": "C:\\Users\\Rafa\\source\\repos\\PadraoCommand\\PadraoCommand.csproj",
+      "projectPath": "C:\\Users\\Rafa\\Desktop\\Estudos\\C#\\Padrao de projetos-Command\\PadraoCommand\\PadraoCommand.csproj",
       "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafa\\source\\repos\\PadraoCommand\\obj\\",
+      "outputPath": "C:\\Users\\Rafa\\Desktop\\Estudos\\C#\\Padrao de projetos-Command\\PadraoCommand\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
