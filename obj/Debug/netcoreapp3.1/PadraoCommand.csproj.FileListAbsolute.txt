@@ -1,0 +1,14 @@
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.exe
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.deps.json
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.runtimeconfig.json
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.runtimeconfig.dev.json
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.dll
+C:\Users\Rafa\source\repos\PadraoCommand\bin\Debug\netcoreapp3.1\PadraoCommand.pdb
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.csproj.AssemblyReference.cache
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.AssemblyInfoInputs.cache
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.AssemblyInfo.cs
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.dll
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.pdb
+C:\Users\Rafa\source\repos\PadraoCommand\obj\Debug\netcoreapp3.1\PadraoCommand.genruntimeconfig.cache
